@@ -1,0 +1,4 @@
+#Sun Feb 16 17:07:21 BRT 2020
+base.0=/home/pedro/git/lista_tarefas/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
